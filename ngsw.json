@@ -1,0 +1,103 @@
+{
+  "configVersion": 1,
+  "timestamp": 1657200588678,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.5e4a7eff286ba2ce.js",
+        "/manifest.webmanifest",
+        "/polyfills.947abbe925ca45ca.js",
+        "/runtime.59ce78e2a8a2ec45.js",
+        "/styles.16fc46ff8d95f514.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/i18n/en.json",
+        "/assets/icons/202020.png",
+        "/assets/icons/break.png",
+        "/assets/icons/custom.png",
+        "/assets/icons/focus.png",
+        "/assets/icons/handstretch.png",
+        "/assets/icons/home1.jpg",
+        "/assets/icons/jump.png",
+        "/assets/icons/legstretch.png",
+        "/assets/icons/lunch.png",
+        "/assets/icons/neckroll.png",
+        "/assets/icons/palming.png",
+        "/assets/icons/roll.png",
+        "/assets/icons/squat.png",
+        "/assets/icons/stretch.png",
+        "/assets/icons/swing.png",
+        "/assets/icons/walk.png",
+        "/assets/icons/wiggle.png",
+        "/assets/icons/workhours.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/i18n/en.json": "c5af8d4bb271486f8cbcdef6038d2e2ead5bce4d",
+    "/assets/icons/202020.png": "060486b1c5e28ac74dae74c253fa825c583ae764",
+    "/assets/icons/break.png": "3ad1ed8ba2447c2f187570b55525d10fe98a1ef3",
+    "/assets/icons/custom.png": "09846e5c16dc83dadd6e637e7b5a01a2a029fc31",
+    "/assets/icons/focus.png": "335232cb0aec09ed91733b4d6f92039a6a7bc982",
+    "/assets/icons/handstretch.png": "d71149f556bcd43837e237a57032f0cf3d3077eb",
+    "/assets/icons/home1.jpg": "1f00b8415e4e5aaed3c861f49d6fd48ef325665d",
+    "/assets/icons/jump.png": "e2a943d72805e0a62073389489578998ad543545",
+    "/assets/icons/legstretch.png": "aed4de7c50c170457b1f099aa7f259b21ea466c5",
+    "/assets/icons/lunch.png": "147648893f07733531f05c6aa2bc03ee3faffb2c",
+    "/assets/icons/neckroll.png": "58ef6ce3b29a758c334982186a6878ee44c8096b",
+    "/assets/icons/palming.png": "6acfe8313f75503b34d2771f67fea6afa294e87b",
+    "/assets/icons/roll.png": "f412d85743010f90da598395dea8cd847a491971",
+    "/assets/icons/squat.png": "e78aa2ed0343e2f3b45c55704fa4f6e1eec9aa4e",
+    "/assets/icons/stretch.png": "f7c9b3ee61f3e0df241dfc91ee02f8d08a703d32",
+    "/assets/icons/swing.png": "715842860b0ae16401d3c65c56c5142c99927756",
+    "/assets/icons/walk.png": "ad98add10f5c77b0e1e872e707bc560f703e280b",
+    "/assets/icons/wiggle.png": "118810883ffe13f8b6cc5c1cfb29d75a60fb1989",
+    "/assets/icons/workhours.png": "7014b0d08806e3b80d037197565324e2dc8742a8",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "fe9a3bd81a1dcbb65f09946111827741910bf403",
+    "/main.5e4a7eff286ba2ce.js": "9a72edeb80e76663ad1e3adcd808a450cdc4f662",
+    "/manifest.webmanifest": "6f406daf4fcf964ca8df75e94316e26622ce4ac0",
+    "/polyfills.947abbe925ca45ca.js": "93d858e176f43a1260a80da79196dddca7dbf0bf",
+    "/runtime.59ce78e2a8a2ec45.js": "3ee65bbed133edb66c70918868365373d7a04ef6",
+    "/styles.16fc46ff8d95f514.css": "959efdbdde0fd9c7015a246e2b49f0eabb01363a"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

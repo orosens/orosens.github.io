@@ -1,0 +1,122 @@
+{
+    "Companion": "hello {{value}}",
+    "bar.title": "Companiong",
+    "bar.home": "Home",
+    "bar.settings": "Settings",
+    "bar.infos": "Infos",
+    "bar.start": "Start",
+    "bar.stop": "Stop",
+    "bar.status": "Status",
+    "bar.status.0": "Active",
+    "bar.status.1": "Inactive",
+
+    "settings.intro": "This page allows you to control more precisly the behaviour of the app. Don't hesitate to move the mouse over the different elements for more information. The configuration is saved locally on your browser. Don't hesitate to save it (via the export button) because it will be lost if you clear the cache.",
+    "settings.predef.title": "PREDEFINED CONFIGURATION",
+    "settings.predef.intro": "Click on a pre-defined category to find out more. Warning : applying a pre-defined configuration will overwrite the current one.",
+    "settings.detailed.title": "DETAILED CONFIGURATION",
+    "settings.detailed.intro": "Click on an event category to expand or reduce it.",
+    "settings.config.title": "GLOBAL CONFIGURATION",
+    "settings.config.intro": "Save, export, import the configuration as a string of characters.",
+    "settings.config.impexreset": "IMPORT / EXPORT",
+    "settings.config.impexreset.intro": "This text contains the current configuration. You can download a file containing it, copy it, modify it, and import a specific config of your choice.",
+    "settings.config.import": "Import from text",
+    "settings.config.reload": "Reload current",
+    "settings.config.download": "Download as file",
+
+    "settings.predef.default.title": "Default",
+    "settings.predef.minimalistic.title": "Minimalistic",
+    "settings.predef.eyehealth.title": "Eye relief",
+    "settings.predef.movealot.title": "Move-A-Lot",
+    "settings.predef.complete.title": "Complete",
+
+    "dialog.setpredef.default.title": "Default",
+    "dialog.setpredef.default.content": "The basic configuration. Balances essential advised exercises, without disturbing too much the work day.",
+    "dialog.setpredef.default.button1": "Apply",
+    "dialog.setpredef.default.button2": "Cancel",
+
+    "dialog.setpredef.minimalistic.title": "Minimalistic",
+    "dialog.setpredef.minimalistic.content": "Minimalistic configuration. Will only remind you of your schedule and breaks, and to take a walk a few times a day.",
+    "dialog.setpredef.minimalistic.button1": "Apply",
+    "dialog.setpredef.minimalistic.button2": "Cancel",
+
+    "dialog.setpredef.eyehealth.title": "Eye relief",
+    "dialog.setpredef.eyehealth.content": "Focused on relaxing your eyes throughout the day, but minimizing physical movement.",
+    "dialog.setpredef.eyehealth.button1": "Apply",
+    "dialog.setpredef.eyehealth.button2": "Cancel",
+
+    "dialog.setpredef.movealot.title": "Move-A-Lot",
+    "dialog.setpredef.movealot.content": "Focused on physical movement. Especially relevant for long-duration desk tasks.",
+    "dialog.setpredef.movealot.button1": "Apply",
+    "dialog.setpredef.movealot.button2": "Cancel",
+
+    "dialog.setpredef.complete.title": "Complete",
+    "dialog.setpredef.complete.content": "Extensive set of body and eye exercises. Can become a bit of a distraction throughout the day, don't hesitate to fine-tune the configuration.",
+    "dialog.setpredef.complete.button1": "Apply",
+    "dialog.setpredef.complete.button2": "Cancel",
+
+    "dialog.custom.title": "Custom event",
+    "dialog.custom.content": "Create a new custom event, and the Companion will remind you at the frequency you choose.",
+    "dialog.custom.inputdesc": "Choose a unique name :",
+    "dialog.custom.button1": "Create",
+    "dialog.custom.button2": "Cancel",
+
+    "dialog.import.title": "Custom event",
+    "dialog.import.content": "Create a new custom event, and the Companion will remind you at the frequency you choose.",
+    "dialog.import.inputdesc": "Choose a unique name (alphanumeric, - and _ only) :",
+    "dialog.import.button1": "Create",
+    "dialog.import.button2": "Cancel",
+
+    "dialog.error.custom.empty.title": "Custom event",
+    "dialog.error.custom.empty.content": "An error occurred during creation : empty or null name.",
+    "dialog.error.custom.empty.button1": "Close",
+
+    "dialog.error.custom.taken.title": "Custom event",
+    "dialog.error.custom.taken.content": "This name is already taken by another event, please choose another name.",
+    "dialog.error.custom.taken.button1": "Close",
+
+    "dialog.error.import.empty.title": "Import error",
+    "dialog.error.import.empty.content": "An error occurred during import : empty or null string. Check the input string, or reset the configuration.",
+    "dialog.error.import.empty.button1": "Close",
+
+    "dialog.error.import.unknown.title": "Import error",
+    "dialog.error.import.unknown.content": "An unknown error occurred during import. Check the input string, or reset the configuration.",
+    "dialog.error.import.unknown.button1": "Close",
+
+    "event.period.desc": "The period is not strictly respected, if two events are scheduled at the same time they will be delayed temporally.",
+    "event.period.tab": "Freq.",
+    "event.period.every": "Every",
+    "event.period.unit": "minutes",
+    "event.days.tab": "Days",
+    "event.intervals.tab": "Hours",
+    "event.sett.unset": "Unset, will adapt to schedule if possible.",
+    "event.sett.set": "Set",
+    "event.sett.add": "Add",
+    "event.sett.clear": "Clear",
+
+    "infohome.intro": "Click on an item to learn more about it.",
+
+    "event.custom.desc": "Custom events allow you to define reminders about anything you like.",
+    "event.custom.add": "Add custom event",
+
+    "type.SCHEDULE": "Schedule",
+    "type.MOVEMENT": "Movement",
+    "type.SITTING": "Sitting",
+    "type.EYES": "Eye care",
+    "type.CUSTOM": "Custom",
+
+    "event.workhours": "Work hours",
+    "event.lunch": "Lunch",
+    "event.break": "Breaks",
+    "event.walk": "Walk",
+    "event.stretch": "Stretching",
+    "event.squat": "Squats",
+    "event.jump": "Jumps",
+    "event.legstretch": "Leg stretch",
+
+    "home.title": "Companiong helps you have a better work from home experience",
+    "home.p1": "Nowadays, more and more people work in front of a computer all day, sitting down. This has been shown to have significant effects on the body, on different levels, and it gets worse with the years.",
+    "home.p2": "However, it has been demonstrated that a few exercises done periodically during the day, can help release the accumulated tension and greatly reduce the effects of the prolonged sitting position.",
+    "home.p3": "Companiong is a free tool that reminds you to periodically take a walk, look at a distant object, wiggle your hands... More than a dozen exercises are available, in a fully customizable way. Compa can also remind you of your daily schedule, and your breaks !",
+    "home.p4": "Made by Sam L. Any feedback is welcome on xxxxxxxxx@gmail.com."
+
+}
