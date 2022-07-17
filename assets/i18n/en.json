@@ -123,7 +123,7 @@
     "home.SITTING": "Sitting exercises :",
     "home.EYES": "Eyesight related exercises :",
     "home.CUSTOM": "Custom exercises :",
-    "home.end": "Made by Sam L. Any feedback is welcome on xxxxxxxxx@gmail.com.",
+    "home.end": "Made by Sam L. Any feedback is welcome on https://github.com/orosens/orosens.github.io.",
 
     "notifs.not.enabled": "Browser notifications seem to be disabled for the website. Make sure they are activated, and reload the page.",
     "page.reload": "Reload",
