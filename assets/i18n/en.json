@@ -112,9 +112,9 @@
 
     "home.title": "DeskDoc helps you mitigate the effects of desk work on the body",
     "how.title": "How does it work ?",
-    "home.p1": "Nowadays, more and more people work in front of a computer all day, sitting down. This has been shown to have significant effects on the body, on different levels, and it gets worse with the years.",
-    "home.p2": "A few exercises done periodically during the day, can help release the accumulated tension and reduce the effects of the prolonged sitting position. Unfortunately, even though these recommendations are widespread, few people actually do them.",
-    "home.p3": "DeskDoc is a free tool that reminds you to periodically take a walk, look at a distant object, wiggle your hands... More than a dozen exercises are available. The tool is fully customizable : every type of event can be disabled, scheduled only on some specific days or hours...",
+    "home.p1": "Nowadays, more and more people work in front of a computer all day, sitting down. This has significant impacts on the body, on different levels.",
+    "home.p2": "Fortunately, a few exercises done periodically during the day, can help release the accumulated tension and reduce the effects of the prolonged sitting position.",
+    "home.p3": "DeskDoc is a free tool that reminds you to periodically take a walk, look at a distant object, wiggle your hands... The tool is fully customizable.",
     "home.p4": "DeskDoc uses browser notifications, don't forget to activate them ! Periodically, the tool will display notifications according to several types of events (schedule, breaks, exercises...). If needed, you can globally disable the tool using the switch in the toolbar (ON/OFF).",
     "home.p5": "The settings menu allows you to fine-tune the tool to your taste. Every event can be individually configured (frequency, hours of the day, days of the week) and disabled. The configuration is stored on the browser storage, no data is collected by this tool at all.",
     "home.p6": "Here are the types of events supported : ",
