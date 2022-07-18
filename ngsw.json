@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1658130875666,
+  "timestamp": 1658132217201,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.9f1435481d3fe736.js",
+        "/main.a3c3e28a5c385802.js",
         "/manifest.webmanifest",
         "/polyfills.947abbe925ca45ca.js",
         "/runtime.59ce78e2a8a2ec45.js",
@@ -59,7 +59,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/i18n/en.json": "509e91d2a202e77a82996b5ec8ba19b61a7a1e83",
+    "/assets/i18n/en.json": "641da2eeb85b7b74f6834855c73f018d7d1773ec",
     "/assets/icons/202020.png": "060486b1c5e28ac74dae74c253fa825c583ae764",
     "/assets/icons/break.png": "3ad1ed8ba2447c2f187570b55525d10fe98a1ef3",
     "/assets/icons/custom.png": "09846e5c16dc83dadd6e637e7b5a01a2a029fc31",
@@ -84,8 +84,8 @@
     "/assets/icons/wiggle.png": "118810883ffe13f8b6cc5c1cfb29d75a60fb1989",
     "/assets/icons/workhours.png": "7014b0d08806e3b80d037197565324e2dc8742a8",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "e62c37ac8d11c1d060a22e5df0842f7da2c81626",
-    "/main.9f1435481d3fe736.js": "4f47d89d3a693f659457f497e4c4c9918d4f4cf4",
+    "/index.html": "13cdecb130cbfec6ab68ef59b3c89c3213004110",
+    "/main.a3c3e28a5c385802.js": "374b488772aebdb190b9cfb60bc8b87d4b362be3",
     "/manifest.webmanifest": "6f406daf4fcf964ca8df75e94316e26622ce4ac0",
     "/polyfills.947abbe925ca45ca.js": "93d858e176f43a1260a80da79196dddca7dbf0bf",
     "/runtime.59ce78e2a8a2ec45.js": "3ee65bbed133edb66c70918868365373d7a04ef6",
